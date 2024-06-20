@@ -1,0 +1,1 @@
+{"all_user": ["1", "2"], "window_size": [872, 539], "last_round": null}
