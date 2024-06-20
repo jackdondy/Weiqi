@@ -1,1 +1,1 @@
-{"all_user": ["1", "2"], "window_size": [872, 539], "last_round": null}
+{"all_user": ["1", "2", "Alice", "Bob"], "window_size": [870, 538], "last_round": null}
